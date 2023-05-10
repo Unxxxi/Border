@@ -1,0 +1,19 @@
+body
+{background-image: url(una.jpg); background-size: cover; height: 500px;}
+.Cats
+{text-align: center; font-family:papyrus; color: black;}
+.container1
+{display: flex; align-items: center; justify-content: space-evenly;
+  height: 0vh;  margin-top: 200px;}
+.box1
+{width: 350px; height: 350px; border: 5px dotted black; 
+  border-radius: 20px; font-size: 20px; margin: 5px;}
+.box2
+{width: 350px; height: 350px; border: 5px dashed black; 
+  border-radius: 20px; font-size: 20px; margin: 5px;}
+.box3
+{width: 350px; height: 350px; border: 5px solid black; 
+  border-radius: 20px; font-size: 20px; margin: 5px;}
+.box4
+{width: 350px; height: 350px; border: 5px double black; 
+  border-radius: 20px;font-size: 20px; margin: 5px;}
